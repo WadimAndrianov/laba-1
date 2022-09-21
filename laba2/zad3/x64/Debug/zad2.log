@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (zad2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  zad3.c
+  LINK : не найден или не выполнена сборка D:\ОАиП\laba2\zad2\zad 2\x64\Debug\zad3.exe при последней инкрементной компоновке; выполняется полная компоновка
+  zad2.vcxproj -> D:\ОАиП\laba2\zad2\zad 2\x64\Debug\zad3.exe
