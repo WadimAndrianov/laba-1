@@ -1,0 +1,3 @@
+﻿  zad1.c
+D:\ОАиП\laba3\zad1\zad1\zad1.c(44,9): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zad1.vcxproj -> D:\ОАиП\laba3\zad1\x64\Debug\zad1.exe
