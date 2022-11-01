@@ -1,0 +1,17 @@
+﻿  zad3fun.c
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(21,17): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int [100][100]"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(21,16): warning C4024: fun_vvod: различные типы для формального и фактического параметров 2
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(25,23): warning C4047: функция: "int **(*)[100]" отличается по уровням косвенного обращения от "int [100][100]"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(25,22): warning C4024: fun_sluch_vvod: различные типы для формального и фактического параметров 2
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(27,17): warning C4047: функция: "int **(*)[100]" отличается по уровням косвенного обращения от "int [100][100]"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(27,16): warning C4024: fun_vivod: различные типы для формального и фактического параметров 2
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(28,17): warning C4047: функция: "int **(*)[100]" отличается по уровням косвенного обращения от "int [100][100]"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(28,16): warning C4024: fun_summa: различные типы для формального и фактического параметров 2
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(51,28): warning C4028: формальный параметр 2 отличается от объявления
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(58,19): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int ***"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(69,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(82,60): warning C4047: =: "int **" отличается по уровням косвенного обращения от "int"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(94,11): warning C4477: "printf": в строке форматирования "%3d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int **"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(94,11): warning C4313: printf: конфликт "%d" в строке формата с аргументом 1 типа "int **"
+D:\ОАиП\laba4\zad3 fun\zad3 fun\zad3fun.c(110,15): warning C4047: =: "int" отличается по уровням косвенного обращения от "int **"
+  zad3 fun.vcxproj -> D:\ОАиП\laba4\zad1 fun\x64\Debug\zad3 fun.exe
